@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 금융추천시스템 | 2023 | Vue 
 
 
+![test2](https://user-images.githubusercontent.com/82436678/235043145-2717e98c-2cea-41b3-9903-9113b82b2ace.png)
 
 
