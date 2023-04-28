@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+프로젝트목록 | 일자 | 사용기술 
+------------|------|-------|
+금융상품서비스| 2023 | NODE 
+금융추천서비스| 2023 | VUE
